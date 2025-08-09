@@ -55,3 +55,16 @@ body {
   z-index: -1;
   filter: blur(20px);
 }
+.background-image {
+  background-image: url("https://images8.alphacoders.com/601/thumb-1920-601705.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  left: -20px;
+  right: -20px;
+  z-index: -1;
+  filter: blur(20px);
+}
